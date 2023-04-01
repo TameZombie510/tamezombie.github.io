@@ -1,4 +1,3 @@
-`#000000`
 # **Max Polancic/TameZombie510**
 ## Projects
 ### SCRATCHY.EXE

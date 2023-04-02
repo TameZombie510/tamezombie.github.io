@@ -1,5 +1,5 @@
-# **Max Polancic/TameZombie510's Portfolio**
-## Projects
+#                                            **Max Polancic/TameZombie510's Portfolio**
+##                                                            Projects
 ### [SCRATCHY.EXE](https://scratch.mit.edu/projects/602790571/)
 ![Screenshot 2023-04-01 at 4 35 06 PM](https://user-images.githubusercontent.com/129619703/229315408-e56d37ef-2a99-4ee1-ac42-7654674be687.png)
 

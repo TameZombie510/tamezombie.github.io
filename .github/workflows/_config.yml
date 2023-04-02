@@ -1,6 +1,6 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
-theme: hacker
+remote_theme: pages-themes/hacker@v0.2.0
 title: mdpolancic
 description: Programming Portfolio
 
